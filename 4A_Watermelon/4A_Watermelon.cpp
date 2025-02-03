@@ -11,3 +11,6 @@ int main() {
         cout<<"NO";
     }
 }
+
+// Time Complexity (TC): O(1)
+// Space Complexity (SC): O(1)
